@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31005.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGDecorator", "MGDecorator\MGDecorator.csproj", "{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MGDecorator", "MGDecorator\MGDecorator.csproj", "{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGPacManComponents", "MGPacManComponents\MGPacManComponents.csproj", "{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MGPacManComponents", "MGPacManComponents\MGPacManComponents.csproj", "{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameLibrary", "MonoGameLibrary\MonoGameLibrary.csproj", "{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonoGameLibrary", "MonoGameLibrary\MonoGameLibrary.csproj", "{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppMathDecorator", "ConsoleAppMathDecorator\ConsoleAppMathDecorator.csproj", "{633F3B8B-AB5B-4CDB-8956-80581EF6E578}"
 EndProject
@@ -19,19 +19,22 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}.Debug|x86.ActiveCfg = Debug|x86
 		{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}.Debug|x86.Build.0 = Debug|x86
 		{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}.Release|Any CPU.ActiveCfg = Release|x86
 		{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}.Release|x86.ActiveCfg = Release|x86
 		{8F9300A1-C0B4-4C9B-93A8-B4F91C5B89FF}.Release|x86.Build.0 = Release|x86
-		{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}.Debug|x86.ActiveCfg = Debug|x86
 		{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}.Debug|x86.Build.0 = Debug|x86
 		{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}.Release|Any CPU.ActiveCfg = Release|x86
 		{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}.Release|x86.ActiveCfg = Release|x86
 		{6E3BBBC5-263F-4464-9B29-AAADD49D3BCB}.Release|x86.Build.0 = Release|x86
-		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Debug|x86.ActiveCfg = Debug|x86
 		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Debug|x86.Build.0 = Debug|x86
 		{AAD7C5C6-AA67-45C6-8B7C-22906FA79E9E}.Release|Any CPU.ActiveCfg = Release|x86
